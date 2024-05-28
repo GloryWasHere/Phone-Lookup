@@ -12,7 +12,7 @@ A simple phone number lookup tool built with Python using the `numverify` API. I
 ## Setup
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/phone-number-lookup.git
+    git clone https://github.com/GloryWasHere/Phone-Lookup
     ```
 2. Navigate to the project directory:
     ```sh
